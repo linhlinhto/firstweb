@@ -3,7 +3,7 @@
 
 	<title> tieu de </title>
 	<script type="text/javascript" src="./my_jvscript.js" > </script>
-	<link type = "text/css" rel="stylesheet" href="./first_web5.css" />
+	<link type = "text/css" rel="stylesheet" href="./nghich.css" />
 <head>
 <body onload="SetupEventForDiv()">
 
