@@ -1,0 +1,36 @@
+@charset "utf-8";
+*{
+	padding: 0 ;
+	margin: 0  ;
+}
+#can_giua{
+	font-weight : bold;
+	font-size : 30px;
+	text-align : center;
+	
+	
+}
+#can_giua_chu{
+	
+	font-weight : normal;
+	font-size : 21px;
+	font-family:Arial;
+	width:1000;
+	margin : 0 auto;
+	
+	
+}
+
+body{
+	background-image:url('./background.png');
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+
+#div1{
+	margin:200 auto ;
+	background-color:white;
+	width: 1100;
+	border:2px solid black;
+	border-radius:20px;
+}
