@@ -34,3 +34,8 @@ body{
 	border:2px solid black;
 	border-radius:20px;
 }
+#duong_dan{
+	font-weight:normal;
+	font-size : 30px;
+	text-align : center;
+}

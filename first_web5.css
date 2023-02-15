@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+
+body{
+	background-image:url('./background.png');
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+
+#can_giua{
+	font-weight : bold;
+	font-size : 30px;
+	text-align : center;
+	
+	
+}
+#div1{
+	font-weight : bold;
+	font-size : 30px;
+	text-align : center;
+	border: 10px solid none;
+	width: 640px;
+	margin: 0 auto;
+}

@@ -1,0 +1,24 @@
+<html>
+<head>
+
+	<title> tieu de </title>
+	<script type="text/javascript" src="./my_jvscript.js" > </script>
+	<link type = "text/css" rel="stylesheet" href="./first_web5.css" />
+<head>
+<body onload="SetupEventForDiv()">
+
+<div id="div1" >
+
+</div>
+
+
+
+
+</body>
+
+
+
+
+
+
+</html>

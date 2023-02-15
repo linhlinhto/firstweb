@@ -1,21 +1,27 @@
 <html>
 <head> 
-	<title> anh </title>
-	<link type = "text/css" rel="stylesheet" href="./dinhdang.css" />
+	<title> trang chu </title>
+	<link type = "text/css" rel="stylesheet" href="./first_web5.css" />
+	<script type="text/javascript" src="./my_jvscript.js" > </script>
 </head>
-<body>
+<body onload="SetupEventForDiv()">
+
 <p id = "can_giua">
 	<image src="./Asian.png" usemap="#trangchu" />
 	<map name="trangchu">
-		<area shape="rect" coords="0,0,768,112" href="./first_web.html" />
+		<area shape="rect" coords="0,0,768,112" href="./first_web3.html" />
 	</map>
 </p>
-<a href="./first_web.html">
-ve trang chu
+<p id="can_giua">
+<a id="can_giua" href="./first_web5.html" >
+	Vui lam an vao di con ga nay
+
 </a>
+</p>
 <p id ="can_giua">
      con gà này vừa nhấn vào ảnh nhấn Hành trình Dòng Sông MeKong đi
 </p>
+<div id="div1" >
 <p id ="can_giua">
 	<image src="./MeKong.png" usemap="#MeKong" />
 	<map name="MeKong">
@@ -23,9 +29,12 @@ ve trang chu
 	</map>
 
 </p>
-<a id ="can_giua" href="./first_web4.html" >
+<p id="can_giua">
+<a id="can_giua" href="./first_web4.html" >
      Hành trình dòng Sông MeKong
 </a>
+</p>
+</div>
 </body>
 
 
